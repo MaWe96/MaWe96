@@ -8,11 +8,13 @@
 
 
 
-- 🔭 Jag gör i nuläget ett projekt i **Deep Learning - Batch Size & Epochs**
+- 🔭 Jag gör i nuläget ett projekt i **Deep Learning - Batch Size & Epochs**.
 
 - 🌱 Jag lär mig nu om **Djupinlärning, Maskininlärning & Fördjupning i Python**
 
-- 👯 Jag är intresserad av att samarbeta i **Data science-projekt med verklig affärsnytta**
+- 👯 Jag är intresserad av att:
+  - samarbeta i **Data science-projekt med verklig affärsnytta**
+  - **bidra till en organisation i LIA** (november - april)
 
 - 👨‍💻 Mina projekt är tillgängliga på [github.com/MaWe96?tab=repositories](https://github.com/MaWe96?tab=repositories)
 
